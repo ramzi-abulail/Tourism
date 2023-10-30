@@ -1,0 +1,19 @@
+.btnhero{
+    background: #FE7A00;
+}
+
+h1{
+	font-size: 48px;
+	line-height: 1.2;
+	font-weight: 700;
+	color: #212112;
+	text-align: center;
+}
+
+.imghero{
+    border-radius: 50px;
+}
+.App {
+    text-align: center;
+    
+  }

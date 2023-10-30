@@ -1,0 +1,62 @@
+/* About Us page */
+
+.about-us {
+    /* General styles for the About Us page */
+    padding: 20px;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .about-us__header {
+    /* Styles for the About Us header */
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  
+.about-us__content {
+    /* Styles for the About Us content */
+   padding: 20px;
+   font-size: 20px;
+
+  }
+  
+  .about-us__team {
+    /* Styles for the About Us team section */
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .about-us__team-member {
+    /* Styles for each About Us team member */
+    float: left;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+  }
+  
+  .about-us__team-member img {
+    /* Styles for the About Us team member image */
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .about-us__team-member_name  {
+    /* Styles for the About Us team member name */
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0;
+    border: 2px solid black;
+  }
+  
+  .about-us__team-member_name2 {
+    /* Styles for the About Us team member bio */
+    font-size: 20px;
+    border:2px solid black ;
+  }
+  
